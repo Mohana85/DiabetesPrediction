@@ -1,4 +1,4 @@
-# Diabetes Prediction using Linear Regression
+# Diabetes Prediction using Logistic Regression
 
 A console-based Machine Learning application that predicts diabetes outcomes using  Diabetes Dataset and a Linear Regression model.
 
